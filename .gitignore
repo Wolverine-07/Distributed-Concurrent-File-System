@@ -1,0 +1,16 @@
+# Ignore compiled binaries and object files
+build/
+bin/
+
+# Ignore runtime data and logs
+data/
+logs/
+
+# Ignore downloaded project specifications
+Course Project*.html
+Course Project*_files/
+
+# Ignore editor/OS junk
+*.swp
+*.tmp
+.DS_Store
